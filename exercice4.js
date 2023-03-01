@@ -1,0 +1,1 @@
+/*Ecrire un programme permettant de verifier si une chaine est un palindrome*/
